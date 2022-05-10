@@ -1,0 +1,314 @@
+.sect1{
+    background-color:#FEF4F0;
+}
+nav{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+li{
+    padding: 10%;
+}
+.btn1{
+margin-left: 70%;
+margin-top: -5%;
+background-color:#EE562A;
+width: 80px;
+border-radius: 5px;
+padding: 0.5px 0px 0.5px 13px ;
+color: white;
+}
+.life{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 10%;
+    margin-top: 8%;
+}
+.we{
+    margin-left:50% ;
+    margin-top: -19%;
+    width: 15%;
+    /* border: 5px #F7BBA1 solid;
+    height: 40vh; */
+}
+.who{
+    margin-left: 10%;
+}
+.Tebo{
+    display: flex;
+    background-color: #FFFFFF;
+   width: 70%;
+   margin-left: 3%;
+}
+.tebo1{
+    margin-left: 10%;
+}
+.tebo2{
+    margin-left: 10%;
+}
+.buy{
+    margin-left: 2%;
+    background-color: #EE562A;
+    border: 2px black solid;
+    padding: 2px 2px 0px 19px;
+    height: 5%;
+    width: 7%;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 2%;
+}
+.sec3
+{
+    margin-top: 4%;
+}
+.vid{
+    color: #EE572A;
+    margin-left: 10%;
+}
+.state{
+   margin-left: 10%; 
+   
+}
+.lorem{
+    margin-left: 10%;
+    margin-top: 2%;
+   
+}
+.image{
+    margin-top: -15%;
+    margin-left: 50%;
+    position: relative;
+}
+ .fea{
+     margin-left: 40%;
+     margin-top: 7%;
+ }
+ .best{
+     margin-left: 30%;    
+ }
+ .we2{
+     display: flex;
+     margin-top: 5%;
+ }
+ .quality{
+     margin-left: 10%;
+     background-color:rgb(203, 243, 241);
+      border: 2px red solid;
+      text-align: center;
+      width: 20%;
+      border: none;
+     
+ }
+ .flexy{
+     margin-left: 10%;
+     background-color:#FEF5F1;
+     text-align: center;
+     width: 20%;
+     border: none;
+ }
+ .lasting{
+     margin-left:7% ;
+     background-color:#c8e8e7;
+     border: 2px red solid;
+     height: 50vh;
+    width: 20%;
+    text-align: center;
+    border: none;
+ }
+ .word{
+     margin-left: 10%;
+ }
+ .exp{
+     margin-left: 10%;
+ }
+ .categ{
+     display: flex;
+     /* margin-left: 10%; */
+ }
+ .cat{
+   margin-left: 10%;  
+ }
+ .all{
+     margin-left: 2%;
+ }
+ .male{
+     margin-left: 3%;
+     text-decoration: underline;
+     color:#EE562A ;
+ }
+ .female{
+     margin-left: 3%;
+ }
+ .kid{
+     margin-left: 2%;
+ }
+ .right{
+     margin-left: 80%;
+     margin-top: -2.0%;
+     background-color:#FDEEE7 ;
+     width: 30px;
+     height: 30px;
+     border-radius: 50%;
+     justify-content: center;
+ }
+ .left{
+     margin-left: 70%;
+    margin-top: -1.5%;
+    background-color:#FDEEE7 ;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+ }
+ .sneky{
+     margin-top: 3%;
+     display: flex;
+ }
+ .sneaker{
+     margin-left: 10%;
+     border: 3px red solid;
+     height: 30vh;
+ }
+ .sneaker2{
+     margin-left:5%;
+ }
+ .sneaker3{
+     margin-left: 5%;
+ }
+ .sneaker{
+     margin-left: 10%;
+ }
+ .sneaker p{
+background-color:#EE562A;
+width: 80px;
+border-radius: 5px;
+padding: 0.5px 0px 0.5px 13px ;
+color: white;
+padding: 7px 10px 7px 10px;
+     
+ }
+ .sneaker2 p{
+    background-color:#EE562A;
+    width: 80px;
+    border-radius: 5px;
+    padding: 0.5px 0px 0.5px 13px ;
+    color: white;
+    padding: 7px 10px 7px 10px;
+ }
+ .sneaker3 p{
+    background-color:#EE562A;
+    width: 80px;
+    border-radius: 5px;
+    padding: 0.5px 0px 0.5px 13px ;
+    color: white;
+    padding: 7px 10px 7px 10px;
+ }
+ .sneaker4 p{
+    background-color:#EE562A;
+    width: 80px;
+    border-radius: 5px;
+    padding: 0.5px 0px 0.5px 13px ;
+    color: white; 
+    padding: 7px 10px 7px 10px;
+ }
+ .foot{
+   margin-left: 10%;
+   margin-top: 8%;  
+ }
+ .test{
+     margin-top: 5%;
+ }
+ .monies{
+     margin-left: 40%;
+ }
+ .person{
+     float: right;
+     margin-top: -22%;
+     margin-right: 20%;
+ }
+ .kipchoge{
+     background-color:#B5DCEA ;
+     padding: 0px 6px 6px 1px;
+     border: 1px red solid;
+        background:#B6DCEA;
+        width: 50px;
+        height: 50px;
+        border-radius: 200%;
+        display: flex;
+        text-align: center;
+      }
+      .lastpart{
+          display: flex;
+          margin-top: 6%;
+      }
+      .lastp{
+           margin-left: 10%; 
+         
+      }
+      .news{
+          margin-left: 0%;
+          background-color:#F2F6FB;
+          width: 700px;
+          text-align: center;
+      }
+      .send{
+          margin-left: 46%;
+          background-color:#EE562A ;
+          color: white;
+          padding: 18px 30px 18px 49.01px;
+           border-radius: 10px;  
+      }
+      .inpu{
+          background-color:#F2F6FB;
+          border: #D7DBDF solid 1px;
+           padding: 1px;
+           width: 490px;
+           border-radius: 7px;
+           margin-left: 25%;    
+      }
+      .icons{
+          display: flex;
+          margin: 10px;
+      }
+      .footer{
+          display: flex;
+      }
+      .footer1{
+          margin-left: 10%;
+      }
+      .footer2{
+          margin-left: 10%;
+      }
+.footer3{
+    margin-left: 7%;
+}
+.footer4{
+     margin-left: 10%; 
+}
+.lastsect{
+    background-color: #FEF8F6;
+}
+.icon1{
+    margin-left: 5%;
+}
+.icon2{
+    margin-left: 5%;
+}
+.icon3{
+    margin-left: 5%;
+}
+.icon4{
+    margin-left: 5%;
+}
+    
+      
+ 
+
+
